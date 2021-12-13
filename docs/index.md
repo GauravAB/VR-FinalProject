@@ -23,6 +23,16 @@
 3. Analyzing data: The HMD has a mounted IMU which provides user head movement inputs and accordingly the rendered data is updated.
 
 
+## Image: 
+
+- Coming Soon
+
+## Link to video:
+
+- Coming Soon
+
+
+
 ## About:
 
 - This idea of medical image process was an inspiration from the image process class which showcased analysis of 2D images through various algorithms and hinted on the fact that 3D data processing is full of opportunities.
