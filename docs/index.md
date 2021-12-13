@@ -52,6 +52,9 @@
 
 - [click here](https://drive.google.com/file/d/1y7BKcC6-yCj--G2MysSWc52Jzi189Yzf/view?usp=sharing)
 
+## Link to final presentation:
+
+-[click here to download](https://drive.google.com/file/d/1F64u-9g8RjMXAv1ICrd2P-ySoJIpo4mq/view?usp=sharing)
 
 
 ## About:
