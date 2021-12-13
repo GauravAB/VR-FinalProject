@@ -16,9 +16,11 @@
 
 ## Project Features:
 
-1) Cube Marching: The most fundamental algorithm to render a volumetric data.
-2) Stereoscopic unwrapping: This is the gateway to take a rendered image into the VR environment.
-3) Analyzing data: The HMD has a mounted IMU which provides user head movement inputs and accordingly the rendered data is updated.
+1. Cube Marching: The most fundamental algorithm to render a volumetric data.
+
+2. Stereoscopic unwrapping: This is the gateway to take a rendered image into the VR environment.
+
+3. Analyzing data: The HMD has a mounted IMU which provides user head movement inputs and accordingly the rendered data is updated.
 
 
 ## About:
