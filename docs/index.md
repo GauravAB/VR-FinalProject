@@ -25,12 +25,13 @@
 
 ## Image: 
 
-- **Volume Rendering**
- ![image 1](/docs/project1.png)
+- **Volume Rendering** 
+
+ ![image 1](/VR-FinalProject/project1.png)
  
- ![image 2](/docs/project2.png)
+ ![image 2](/VR-FinalProject/project2.png)
  
- ![image 3](/docs/project3.png)
+ ![image 3](/VR-FinalProject/project3.png)
 
 
 - **Stereo unwrap**
