@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# **Volumetric Datavisualization in VR**
 
-You can use the [editor on GitHub](https://github.com/GauravAB/VR-FinalProject.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Done By : Gaurav Ajay Bhokare
+### Release Date : 13/12/2021
+### Platforms : WebGL, Vrduino
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Project Abstract:
+- Volumetric data like medical images can be very critically understood when seen in VR view i.e in an immersive environment. This project is an attempt to create a program and associated HMD hardware from scratch to do this task. This project works in phases and the works through each fundamental step. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- There are many advanced softwares and AR/VR projects which do a stunning job of representing medical images to its finest detail and are helping many doctors in the disease diagnosis process.
 
-```markdown
-Syntax highlighted code block
+- Goal of my project is to replicate a small part of these grand projects by implementing a things from first principles.
 
-# Header 1
-## Header 2
-### Header 3
+- Inspiration for this project comes from the Image processing class which teaches a lot of processing algorithms which are generic and applicable to 3D data.
 
-- Bulleted
-- List
+## Project Features:
 
-1. Numbered
-2. List
+1) Cube Marching: The most fundamental algorithm to render a volumetric data.
+2) Stereoscopic unwrapping: This is the gateway to take a rendered image into the VR environment.
+3) Analyzing data: The HMD has a mounted IMU which provides user head movement inputs and accordingly the rendered data is updated.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## About:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- This idea of medical image process was an inspiration from the image process class which showcased analysis of 2D images through various algorithms and hinted on the fact that 3D data processing is full of opportunities.
+-  This project is an attempt to understand Will Usher's implementation of cube marching and adapt it to VR environment.
 
-### Jekyll Themes
+#### Contact: bhokare.gaurav@utah.edu
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GauravAB/VR-FinalProject.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
