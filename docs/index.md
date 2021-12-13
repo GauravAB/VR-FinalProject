@@ -25,7 +25,13 @@
 
 ## Image: 
 
-- Coming Soon
+- volume rendering
+- ![image1](/VR-FinalProject/docs/project1/png)
+
+
+- stereo unwrap
+
+- HMD integration
 
 ## Link to video:
 
