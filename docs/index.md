@@ -1,4 +1,4 @@
-# **Volumetric Datavisualization in VR**
+# Volumetric Data Visualization in VR
 
 ### Done By : Gaurav Ajay Bhokare
 ### Release Date : 13/12/2021
