@@ -56,4 +56,5 @@
 -  This project is an attempt to understand Will Usher's implementation of cube marching and adapt it to VR environment.
 
 #### Contact: bhokare.gaurav@utah.edu
+###           rogelio@cs.utah.edu
 
