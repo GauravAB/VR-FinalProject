@@ -26,6 +26,8 @@
 ## About:
 
 - This idea of medical image process was an inspiration from the image process class which showcased analysis of 2D images through various algorithms and hinted on the fact that 3D data processing is full of opportunities.
+
+
 -  This project is an attempt to understand Will Usher's implementation of cube marching and adapt it to VR environment.
 
 #### Contact: bhokare.gaurav@utah.edu
