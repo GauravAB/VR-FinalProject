@@ -44,7 +44,7 @@
 
 ## Link to video:
 
-- Coming Soon
+- [click here](https://drive.google.com/file/d/1y7BKcC6-yCj--G2MysSWc52Jzi189Yzf/view?usp=sharing)
 
 
 
