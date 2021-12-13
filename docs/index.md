@@ -25,13 +25,17 @@
 
 ## Image: 
 
-- volume rendering
+- **Volume Rendering**
 - ![image 1](/VR-FinalProject/docs/project1.png)
+- ![image 2](/VR-FinalProject/docs/project2.png)
+- ![image 3](/VR-FinalProject/docs/project3.png)
 
 
-- stereo unwrap
+- **Stereo unwrap**
+- coming soon .........
 
-- HMD integration
+- **HMD integration**
+- coming later in fall break.........
 
 ## Link to video:
 
