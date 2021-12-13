@@ -26,9 +26,11 @@
 ## Image: 
 
 - **Volume Rendering**
-- ![image 1](/docs/project1.png)
-- ![image 2](/docs/project2.png)
-- ![image 3](/docs/project3.png)
+ ![image 1](/docs/project1.png)
+ 
+ ![image 2](/docs/project2.png)
+ 
+ ![image 3](/docs/project3.png)
 
 
 - **Stereo unwrap**
