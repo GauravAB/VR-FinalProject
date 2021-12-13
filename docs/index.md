@@ -18,8 +18,14 @@
 
 1. Cube Marching: The most fundamental algorithm to render a volumetric data.
 
+- Marching cubes is a computer graphics algorithm, published in the 1987 SIGGRAPH proceedings by Lorensen and Cline, for extracting a polygonal mesh of an isosurface from a three-dimensional discrete scalar field (the elements of which are sometimes called voxels). The applications of this algorithm are mainly concerned with medical visualizations such as CT and MRI scan data images, and special effects or 3-D modelling with what is usually called metaballs or other metasurfaces. The marching cubes algorithm is meant to be used for 3-D, the 2-D version of this algorithm is called the marching squares algorithm
+
 2. Stereoscopic unwrapping: This is the gateway to take a rendered image into the VR environment.
 
+- Producing a stereo pair is a relatively simple process; rather than simply rendering a single image, one creates two related images which may then be viewed on a stereo monitor, in a stereo slide viewer, or by using colored glasses and an appropriate display filter.
+
+- Rayshade facilitates the rendering of stereo pairs by allowing you to specify the distance between the camera positions used in creating the two images. The camera position given in the rayshade input file defines the midpoint between the two camera positions used to generate the images. Generally, the remainder of the viewing parameters are kept constant.
+ 
 3. Analyzing data: The HMD has a mounted IMU which provides user head movement inputs and accordingly the rendered data is updated.
 
 
