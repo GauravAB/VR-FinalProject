@@ -23,7 +23,7 @@
 3. Analyzing data: The HMD has a mounted IMU which provides user head movement inputs and accordingly the rendered data is updated.
 
 
-## Image: 
+## Images: 
 
 - **Volume Rendering** 
 
@@ -39,7 +39,7 @@
 
 
 - **HMD integration**
-- coming later in fall break.........
+- coming later in December End .........
 
 
 ## Link to video:
