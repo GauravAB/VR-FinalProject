@@ -10,7 +10,7 @@
 
 - There are many advanced softwares and AR/VR projects which do a stunning job of representing medical images to its finest detail and are helping many doctors in the disease diagnosis process.
 
-- Goal of my project is to replicate a small part of these grand projects by implementing a things from first principles.
+- Goal of my project is to replicate a tiny version of these grand projects by implementing crucial parts of software and hardware.
 
 - Inspiration for this project comes from the Image processing class which teaches a lot of processing algorithms which are generic and applicable to 3D data.
 
