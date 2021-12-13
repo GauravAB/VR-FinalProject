@@ -26,7 +26,7 @@
 ## Image: 
 
 - volume rendering
-- ![image1](/VR-FinalProject/docs/project1/png)
+- ![image 1](/VR-FinalProject/docs/project1.png)
 
 
 - stereo unwrap
